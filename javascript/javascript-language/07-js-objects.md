@@ -1,4 +1,4 @@
-# 07 Objects
+# 07. Objects
 
 > File 07 — key-value data and object patterns.
 

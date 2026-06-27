@@ -1,4 +1,4 @@
-# 11 ES6+ Features
+# 11. ES6+ Features
 
 > File 11 — modern JavaScript language features.
 

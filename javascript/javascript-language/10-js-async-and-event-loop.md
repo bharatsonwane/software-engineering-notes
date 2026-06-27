@@ -1,4 +1,4 @@
-# 10 Async & Event Loop
+# 10. Async & Event Loop
 
 > File 10 — asynchronous JavaScript and execution order.
 

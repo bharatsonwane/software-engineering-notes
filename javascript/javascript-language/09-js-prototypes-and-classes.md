@@ -1,4 +1,4 @@
-# 09 Prototypes & Classes
+# 09. Prototypes & Classes
 
 > File 09 — inheritance in JavaScript.
 

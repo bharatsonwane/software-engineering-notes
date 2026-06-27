@@ -1,4 +1,4 @@
-# 08 Closures & this
+# 08. Closures & this
 
 > File 08 — lexical scope, closures, and dynamic this binding.
 
