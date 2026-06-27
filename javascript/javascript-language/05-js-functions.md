@@ -1,4 +1,4 @@
-# Functions
+# 05 Functions
 
 > File 05 — defining and using functions.
 

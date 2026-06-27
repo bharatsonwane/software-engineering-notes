@@ -1,4 +1,4 @@
-# Advanced Patterns
+# 12 Advanced Patterns
 
 > File 12 — internals, patterns, and performance.
 

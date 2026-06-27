@@ -1,4 +1,4 @@
-# Arrays
+# 06 Arrays
 
 > File 06 — working with lists of values.
 

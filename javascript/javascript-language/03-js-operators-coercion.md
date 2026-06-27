@@ -1,4 +1,4 @@
-# Operators & Coercion
+# 03 Operators & Coercion
 
 > File 03 — operators and how JavaScript converts types.
 
